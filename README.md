@@ -1,1 +1,1 @@
-# Data-Science-Projects
+# Projetos em Python - Análises Exploratórias
